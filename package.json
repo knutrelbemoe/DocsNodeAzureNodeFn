@@ -1,0 +1,21 @@
+{
+  "name": "functionapi",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "adal-node": "^0.2.1",
+    "axios": "^0.19.2",
+    "csom-node": "^0.1.6",
+    "http": "0.0.1-security",
+    "moment": "^2.27.0",
+    "node-cache": "^5.1.2",
+    "qs": "6.9.4",
+    "request": "^2.88.0",
+    "uppercamelcase": "^3.0.0",
+    "xml2js-parser": "^1.1.1"
+  },
+  "devDependencies": {}
+}
